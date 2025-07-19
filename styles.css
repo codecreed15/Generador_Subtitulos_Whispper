@@ -1091,7 +1091,7 @@ textarea:focus {
   }
 }
 
-@media (min-width: 300px) and (max-width: 390px) {
+@media (min-width: 300px) and (max-width: 420px) {
   .headingPrimary {
     font-size: 1.2rem;
     width: 100%;
